@@ -36,26 +36,6 @@ Currently working on private production infrastructure and backend services.
 
 </div>
 
----
-
-## What I work with
-
-```text
-Backend
-├── Python
-├── FastAPI
-├── REST APIs
-├── PostgreSQL
-└── Redis
-
-Infrastructure
-├── Linux
-├── Docker
-├── Nginx
-├── Reverse Proxy
-├── Networking
-└── Monitoring
-
 Automation
 ├── GitHub Actions
 ├── CI/CD
