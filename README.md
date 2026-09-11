@@ -1,43 +1,14 @@
 <div align="center">
 
-# ZIK
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,nginx,linux,bash,git,github&perline=10" />
 
-### Backend Engineering • Infrastructure • Automation
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=Building+reliable+systems;Automating+everything+that+can+be+automated;Backend+%7C+Infrastructure+%7C+Networking" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zik&show_icons=true&hide_border=true&theme=transparent&hide_title=true&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zik&layout=compact&hide_border=true&theme=transparent&hide_title=true" />
 
-</div>
+<br><br>
 
----
-
-## About
-
-I build backend systems, infrastructure and automation tools.
-
-My focus is on creating reliable, maintainable and production-ready systems with clean architecture and minimal operational overhead.
-
-Currently working on private production infrastructure and backend services.
-
----
-
-## Tech
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,nginx,linux,git,github,bash" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zik&theme=transparent&hide_border=true" />
 
 </div>
-
-<br>
-
-<div align="center">
-
-`Backend` • `Infrastructure` • `Automation` • `Networking` • `CI/CD` • `Monitoring`
-
-</div>
-
-Automation
-├── GitHub Actions
-├── CI/CD
-├── Deployment automation
-└── Infrastructure tooling
