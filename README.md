@@ -1,10 +1,10 @@
 <div align="center">
 
-# Zik
+# ZIK
 
-### Backend • Infrastructure • Automation
+### Backend Engineering • Infrastructure • Automation
 
-Building reliable systems, tools and infrastructure.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=Building+reliable+systems;Automating+everything+that+can+be+automated;Backend+%7C+Infrastructure+%7C+Networking" />
 
 </div>
 
@@ -12,22 +12,52 @@ Building reliable systems, tools and infrastructure.
 
 ## About
 
-Backend and infrastructure development focused on:
+I build backend systems, infrastructure and automation tools.
 
-- Automation
-- APIs
-- Linux infrastructure
-- Containers
-- Networking
-- Monitoring
-- CI/CD
+My focus is on creating reliable, maintainable and production-ready systems with clean architecture and minimal operational overhead.
 
-Currently working on a private production project.
+Currently working on private production infrastructure and backend services.
 
 ---
 
-## Tech Stack
+## Tech
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,nginx,linux,redis,git,github" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,nginx,linux,git,github,bash" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+`Backend` • `Infrastructure` • `Automation` • `Networking` • `CI/CD` • `Monitoring`
+
+</div>
+
+---
+
+## What I work with
+
+```text
+Backend
+├── Python
+├── FastAPI
+├── REST APIs
+├── PostgreSQL
+└── Redis
+
+Infrastructure
+├── Linux
+├── Docker
+├── Nginx
+├── Reverse Proxy
+├── Networking
+└── Monitoring
+
+Automation
+├── GitHub Actions
+├── CI/CD
+├── Deployment automation
+└── Infrastructure tooling
