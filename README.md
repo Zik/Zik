@@ -1,6 +1,6 @@
 <div align="center">
 
-# ZIK
+# Zik
 
 ### Backend • Infrastructure • Automation
 
