@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Zik/Zik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ZIK
 
-Here are some ideas to get you started:
+### Backend • Infrastructure • Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building reliable systems, tools and infrastructure.
+
+</div>
+
+---
+
+## About
+
+Backend and infrastructure development focused on:
+
+- Automation
+- APIs
+- Linux infrastructure
+- Containers
+- Networking
+- Monitoring
+- CI/CD
+
+Currently working on a private production project.
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,nginx,linux,redis,git,github" />
+</p>
